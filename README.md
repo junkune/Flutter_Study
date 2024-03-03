@@ -1,4 +1,5 @@
-<p align="center"><img src=![스크린샷 2024-03-03 오후 3 43 27](https://github.com/junkune/Flutter_Study/assets/7955880/c2314073-c0f7-4767-aeb8-2dd1efb3487d)></p>
+<p align="center"><img src="https://github.com/junkune/Flutter_Study/blob/main/screenshots.png"></p>
+
 [배운것]
 
  - Flutter는 Component로 이루어져 있음
